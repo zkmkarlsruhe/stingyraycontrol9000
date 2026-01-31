@@ -1,4 +1,19 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</p>
+
 # stingyraycontrol9000
+
+[![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](LICENSE)
+
+Part of [ZKM Open Source](https://github.com/zkmkarlsruhe)
+
+---
 
 This device combines the WS2801 led driver chip with the constant current LED driver modules from the Meanwell LDD series to get a relatively cheap digitally controllable cascadeable constant current LED driver for powerful LEDs that can be used in art installations.
 
