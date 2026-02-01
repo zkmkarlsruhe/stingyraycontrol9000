@@ -1,9 +1,9 @@
 # stingyraycontrol9000
 
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
+[![ZKM Open Source](https://img.shields.io/badge/ZKM-Open%20Source-blue)](https://github.com/zkmkarlsruhe)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](LICENSE)
 
-Part of [ZKM Open Source](https://github.com/zkmkarlsruhe)
 
 ---
 
@@ -15,14 +15,14 @@ Do not hot-plug the modules without verifying that the ground connection is made
 
 ---
 
-## Funded by
+## Developed at
 
-<p align="center">
-  <a href="https://zkm.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
-      <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
-    </picture>
-  </a>
-</p>
+This project is developed at [ZKM | Center for Art and Media Karlsruhe](https://zkm.de), a publicly funded cultural institution exploring the intersection of art, science, and technology.
+
+<a href="https://zkm.de">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg">
+    <img alt="ZKM" src="https://raw.githubusercontent.com/zkmkarlsruhe/zkm-open-source/main/assets/zkm-logo.svg" width="120">
+  </picture>
+</a>
